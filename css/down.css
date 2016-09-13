@@ -1,0 +1,11 @@
+
+p,a,h1,h2,h3,h4,h5,h6,body,ul,ol,li,dl,dt,dd,input,img{padding:0;margin:0;}
+body{font: 12px "microsoft yahei"; color: #222222; background: #FFFFFF; }
+ul,ol{list-style:none}
+img{display:block}
+a{text-decoration:none; color: #222222}
+a:hover{color:orangered;}
+
+.w{width:1180px; margin:0 auto;}
+.l{float:left}
+.r{float:right}
