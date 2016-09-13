@@ -1,0 +1,14 @@
+
+{
+  "list":[
+    {"img":["sweet.jpg","sweet2.jpg","agent.jpg"],"p":["SWEET 系列产品","最新活动","招商合作"]},
+    {"imgcenter":["2.jpg"],"imgright":["3.jpg","4.jpg","5.jpg","6.jpg","7.jpg"]},
+    {"img":["4_1.jpg","4_2.jig","4_3.jig","4_4.jig"]},
+    {"imgcenter":["5_1.jpg","5_2.jpg","5_3.jpg","5_4.jpg","5_5.jpg"],"imgright":["5_6.jpg"]},
+    {"imgcenter":["6_1.jpg"],"imgright":["6_2.jpg","6_3.jpg","6_4.jpg","6_5.jpg","6_6.jpg"]},
+    {"img":["7_1.jpg"]},
+    {"imgcenter":["8_1.jpg","8_2.jpg","8_3.jpg","8_4.jpg","8_5.jpg"],"imgright":["8_6.jpg"]},
+    {"imgcenter":["9_1.jpg","9_2.jpg","9_3.jpg","9_4.jpg","9_5.jpg"],"imgright":["9_6.jpg"]}
+
+      ]
+}
